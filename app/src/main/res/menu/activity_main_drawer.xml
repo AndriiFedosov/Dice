@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_d4"
+            android:icon="@mipmap/ic_d4"
+            android:title="@string/dice_1d4" />
+        <item
+            android:id="@+id/nav_d6"
+            android:icon="@mipmap/ic_d6"
+            android:title="@string/dice_1d6" />
+        <item
+            android:id="@+id/nav_d8"
+            android:icon="@mipmap/ic_d8"
+            android:title="@string/dice_1d8" />
+        <item
+            android:id="@+id/nav_d10"
+            android:icon="@mipmap/ic_d10"
+            android:title="@string/dice_1d10" />
+        <item
+            android:id="@+id/nav_d12"
+            android:icon="@mipmap/ic_d12"
+            android:title="@string/dice_1d12" />
+        <item
+            android:id="@+id/nav_d20"
+            android:icon="@mipmap/ic_d20"
+            android:title="@string/dice_1d20" />
+        <item
+            android:id="@+id/nav_d100"
+            android:icon="@mipmap/ic_d100"
+            android:title="@string/dice_1d100" />
+    </group>
+
+
+</menu>
